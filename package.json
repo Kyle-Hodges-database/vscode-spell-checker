@@ -5211,7 +5211,7 @@
     "ansi-styles": "^7.0.0",
     "build-tools": "file:./tools/build-tools",
     "chokidar-cli": "^3.0.0",
-    "concurrently": "^10.0.5",
+    "concurrently": "^10.0.6",
     "cspell": "^10.3.6",
     "esbuild": "^0.28.2",
     "eslint": "~10.11.0",
